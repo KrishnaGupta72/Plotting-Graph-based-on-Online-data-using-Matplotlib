@@ -9,7 +9,6 @@ plt.plot(x[1],'c',label='Second Price',linewidth=5)
 plt.title('Price Comparision')
 plt.ylabel('Prices')
 plt.xlabel('X-axis Base')
-print("Krishna Gupta")
 plt.legend()
 plt.grid(True,color='k')#Enable grid view
 plt.show()
